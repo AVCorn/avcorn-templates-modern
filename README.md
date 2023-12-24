@@ -1,6 +1,6 @@
 # AVCorn Modern Template
 
-![Template Preview](assets/images/previews/preview-lg.png "Marketing Design Preview")
+![Template Preview](assets/images/previews/preview-lg.png "Modern Design Preview")
 
 A general template with a modern theme.
 
